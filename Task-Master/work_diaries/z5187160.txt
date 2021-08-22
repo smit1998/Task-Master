@@ -1,0 +1,51 @@
+Week 1
+- Formed group with Emma, Bridget, Anson, Harrison and myself. 
+- created a group server on Discord to organise and communicate with each other. 
+- created epic story points from the specifications
+
+Week 2
+- discuss storyboard
+- discuss system architecture
+- completed system architecture diagram
+
+Week 3
+
+- finished storyboards
+- updated use case diagram
+- updated system architecture diagram
+- finalised and submitted proposal
+
+Week 4
+
+- Splitting up work for first sprint.
+- PR review of login auth.
+
+Week 5
+- Fixed some bugs before sprint 1.
+- Demo of sprint 1
+- Created the update-state api
+- Fixed bugs of update-state
+
+Week 6
+- Created connections database model, serializer and view.
+- Fixed issues with create connections
+
+Week 7
+- Distribute sprint 3 tasks
+- Created follow + unfollow api
+
+Week 8
+- Distribute sprint 4 tasks
+- Created list followers api
+
+Week 9
+- Created follow + unfollow frontend
+- Created list followers frontend
+- Created back-end for open to work feature
+- Added Front-end for open to work feature
+
+Week 10
+- Worked on final report
+- updated open to work feature
+- worked on displaying followers and following
+- Worked on final demo

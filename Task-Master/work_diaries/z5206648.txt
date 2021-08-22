@@ -1,0 +1,112 @@
+Week 1
+Tuesday
+Formed group. Formed with Emma, Bridget, Anson, Smit and myself. We created a group server on Discord to organise and communicate with each other. 
+We setup Jira and Emma was chosen as scrum master. We have chosen the project Task Master. 
+Organised another time weekly on Thursdays to also have another meeting. 
+
+Week 1
+Thursday
+Drafted user stories were created as a team.
+Imported user stories into Jira.
+Stack will be created with Node JS, React and MongoDB
+
+Week 2 
+Tuesday
+Distribute storyboard tasks to each member.
+User stories and sprints created in Jira.
+
+Week 2 
+Thursday
+Complete use case diagram.
+Complete system architecture diagram.
+Setup basic infrastructure of the backend and frontend.
+
+Week 3 
+Tuesday
+Thought about ideas for novel features to implement
+Fix up Jira user stories and grouping into sprints
+Assigned tasks to include novel features into storyboards
+
+Thursday
+Check tasks needed to complete for the proposal.
+Assigned tasks to individuals to complete parts of propsal and link together.
+
+Sunday
+Completed proposal 
+Gave tasks to members and planned future labs.
+
+Week 4
+Tuesday
+Changing base from flask to django.
+Splitting up work for first sprint.
+
+Thursday
+Used djoser app to handle authentication
+PR review of login auth.
+
+Saturday
+Enforce all signup fields to be needed.
+
+Week 5
+Monday
+Group meeting to check we are on track with first sprint.
+Fix some bugs before sprint 1.
+
+Tuesday
+Demo sprint 1 to tutor
+Discuss fixes and bugs that we needed to fix in first sprint
+Talk over points in the retrospective
+
+Wednesday
+Assign tasks to each person for sprint 2
+
+Week 6
+Wednesday
+Create backend endpoint for editing description of tasks
+
+Saturday
+Create backend url for editing name, storypoint, deadline, assignee and priority of tasks
+
+Week 7
+Tuesday
+Distribute sprint 3 tasks
+Merge sprints as tasks overlap
+
+Saturday
+Add busyness indicator to profiles 
+
+Week 8
+Monday 19th juuly
+Unifying edit task backends into a single one
+Add a new state for the tasks "Almost Complete"
+
+Tuesday
+Distribute sprint 4 tasks
+Discuss backend and frontend transaction data convention
+
+Week 9
+Tuesday
+Add sorting functionality to user tasks
+Update the busyness formula
+Add user busyness next to name when assigning tasks
+
+Wednesday
+Move user tasks to the dashboard from user profile and cleanup dashboard
+Make user clickable links from the user dashboard to the respective tasks and projects
+Disable users being able to search for themselves
+Refactor connections in front end and fix bug
+
+Thursday
+Discuss final report and order of final demo
+
+Friday
+Add user projects and tasks when viewing a connected user's profile
+Add user's projects in search if connected
+Complete sections of final report assigned to me
+
+Saturday
+Update searching to refresh on each keystroke
+Complete searching of all connected users' tasks (started by Emma)
+Update busyness formula again to properly reflect assignment specifications
+Fix up small UI inconsistencies
+
