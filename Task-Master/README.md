@@ -1,4 +1,4 @@
-# COMP3900-9900-Capstone-Project Peepo
+# Task Master
 
 Task Master project created in React and Python using SQLite for storage.
 
@@ -7,32 +7,6 @@ Task Master project created in React and Python using SQLite for storage.
 - Node version 10.24.0
 
 ## How to Setup the project
-
-### On CSE machines
-
-1. git clone this project
-
-2. Run the setup.sh script like this to install all dependencies:
-
-```
-bash setup.sh
-```
-
-3. Start the web server using:
-
-```
-yarn start
-```
-
-4. Run this command to run the backend server, running on http://localhost:5423:
-
-```
-yarn start-api
-```
-
-5. Navigate to [http://localhost:3012](http://localhost:3012) to access the website.
-
-### On a local machine
 
 1. git clone this project
 2. Change directory into the root of the repository
